@@ -1,8 +1,8 @@
 #include<stdio.h>
+#include<stdlib.h>
 
-
-void main()
+int main()
 {
 	int i=0;
-	
+	int j=0;
 }
